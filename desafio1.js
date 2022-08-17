@@ -1,6 +1,6 @@
 // Este desafio se trata sobre que el cliente debe elegir el servicio que desea diciendome el precio que dice en la paginal y el descuento. Con la funcion promocion saque el descuento y con la funcion precio final reste el costo del servicio con la promocion a lo ultimo use el ciclo while para preguntarle al cliente si necesita algo mas.
 
-let servicio = parseInt(prompt("Bienvenidos a Barberia el Patron, ingrese el servicio que desea"));
+let servicio = parseInt(prompt("Bienvenidos a Barberia el Patron, ingrese el servicio que desea 1,2,3"));
 let costo_servicio = parseInt(prompt("Ingrese el costo del servicio"));
 let descuento = parseInt(prompt("Estas de suerte,ingrese el descuento que dice en el servicio que seleccionaste"));
 
